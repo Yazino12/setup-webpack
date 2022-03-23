@@ -8,7 +8,7 @@ To get a local copy up and running follow these setup steps.
 
 **Setup**
 
-- Simply **clone** the project and run : **npm i**
+- Simply clone the project and run : `npm i`
 - In case you run into any errors please raise an [issue](https://github.com/Yazino12/awesome-books/issues).
 
 ## Built With
