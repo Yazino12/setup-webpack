@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/-Yazino12-yellow)
+
 # Set up project with Webpack
 
 > This project is about using webpack to bundle JavaScript.
